@@ -6,3 +6,5 @@ Algorithms were implemented according to a paper by Jerome H. Friedman "Greedy F
 Algorithms are:
 - LS_Boost, optimizing MSE
 - L2_TreeBoost, optimizing binary cross-entropy
+
+gradient_boosting.py contains models and module_test.ipynb tests it on a toy dataset.
